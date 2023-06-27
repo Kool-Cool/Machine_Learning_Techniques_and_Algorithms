@@ -1,4 +1,6 @@
 # Machine_Learning_Techniques_Algorithms
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 ## Welcome to my awesome project!
 Welcome to my GitHub repository! This is a project that I created for educational purposes only. It contains various machine learning techniques. You can learn how to apply these techniques to different datasets and problems. I hope you find this project useful and interesting!
